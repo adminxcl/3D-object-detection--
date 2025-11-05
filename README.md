@@ -4,4 +4,3 @@
 # 1.数据集（KITTI、nuScenes、Waymo open dataset）
 下载地址：
 https://pan.baidu.com/s/1kuiQPwoz9bV0pga72E1TZw?pwd=gjs3
-上述文件中上传了miniKITTI数据集以供调试使用
